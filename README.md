@@ -96,4 +96,3 @@ ADJAMBO Espoir Oyénga — Computer Engineering Student
 Nizhny Novgorod State Technical University, Russia  
 [GitHub Profile](https://github.com/0yenga)
 
-<img width="904" height="880" alt="image" src="https://github.com/user-attachments/assets/1fb954e9-3c16-43f0-84e7-6bb99cad15a7" />
