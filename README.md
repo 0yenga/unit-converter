@@ -95,4 +95,3 @@ Enter temperature in Celsius: 25
 ADJAMBO Espoir Oyénga — Computer Engineering Student  
 Nizhny Novgorod State Technical University, Russia  
 [GitHub Profile](https://github.com/0yenga)
-```
