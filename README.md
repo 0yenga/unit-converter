@@ -161,4 +161,8 @@ python converter.py
 - Complete README documentation
 
 The program is ready for immediate use and can be extended with additional conversion types as needed.
+Author
+ADJAMBO Espoir Oyénga — Computer Engineering Student
+Nizhny Novgorod State Technical University, Russia
+
 
